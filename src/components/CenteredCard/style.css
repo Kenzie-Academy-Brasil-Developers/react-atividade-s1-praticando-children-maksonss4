@@ -1,0 +1,14 @@
+.container {
+    background-color: rgb(174, 137, 206);
+    width: 180px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.container h1{
+    margin: 0;
+}
